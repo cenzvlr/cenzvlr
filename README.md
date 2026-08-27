@@ -2,9 +2,9 @@
 
 ### Data Science & AI
 
-![Profile views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=ceznvlr&color=blue&style=flat)
 
-[![Follow](https://img.shields.io/github/followers/SEU_USUARIO?label=Follow&style=social)](https://github.com/SEU_USUARIO)
+[![Follow](https://img.shields.io/github/followers/cezvlr?label=Follow&style=social)](https://github.com/cenzvlr)
 
 ## Connect with me:
 
@@ -16,7 +16,3 @@
 ## Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cenzvlr&show_icons=true&theme=dark)
