@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-<h1 align="center">Data Science & AI</h1>
+<h2 align="center">Data Science & AI</h2>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ceznvlr&color=blue&style=flat)
 
