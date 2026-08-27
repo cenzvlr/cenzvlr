@@ -10,4 +10,4 @@
 
 ## Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode,c,canva" />
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode,c,canvas" />
