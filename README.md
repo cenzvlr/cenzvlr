@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ceznvlr&color=blue&style=flat)
 
-[![Follow](https://img.shields.io/github/followers/cezvlr?label=Follow&style=social)](https://github.com/cenzvlr)
+[![Follow](https://img.shields.io/github/followers/cenzvlr?label=Follow&style=social)](https://github.com/cenzvlr)
 
 ## Connect with me:
 
