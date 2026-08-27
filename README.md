@@ -11,4 +11,3 @@
 ## Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
-<img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat" />
