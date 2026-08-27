@@ -6,8 +6,8 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/cenzvlr"><img src="https://skillicons.dev/icons?i=twitter" /></a> <a href="https://linkedin.com/in/caiofsgonzales"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://discord.gg/cenzvlr"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://twitter.com/cenzvlr"><img src="https://skillicons.dev/icons?i=twitter" /></a> <a href="https://linkedin.com/in/caiofsgonzales"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://discord.gg/cenzvlr"><img src="https://skillicons.dev/icons?i=discord" /></a> <a href="https://youtube.com/@cenzvlr"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 
 ## Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode,powerbi" />
