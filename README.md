@@ -6,7 +6,7 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/cenzvlr"><img src="https://skillicons.dev/icons?i=twitter" /></a> <a href="https://linkedin.com/in/caiofsgonzales"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://discord.gg/cenzvlr"><img src="https://skillicons.dev/icons?i=discord" /></a> <a href="https://youtube.com/@cenzvlr"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+<a href="https://x.com/SEU_USUARIO"><img height="32" width="32" src="https://cdn.simpleicons.org/x" /></a> <a href="https://instagram.com/SEU_USUARIO"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /></a> <a href="https://youtube.com/@SEU_USUARIO"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" /></a> <a href="https://linkedin.com/in/SEU_USUARIO"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a> <a href="https://discord.gg/SEU_CONVITE"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" /></a>
 
 ## Languages and Tools:
 
