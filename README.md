@@ -11,4 +11,4 @@
 ## Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode,c" />
-<img width="736" height="331" alt="Kageyama x Hinata" src="https://github.com/user-attachments/assets/e61b9cef-dd6d-4228-9106-452ce1d539cc" />
+<img width="1200" height="539" alt="peak wallpaper" src="https://github.com/user-attachments/assets/c85bde67-8a20-4f0f-89ac-717f23efeb52" />
